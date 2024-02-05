@@ -62,31 +62,31 @@ Customers usually do not decide to switch to another competitor instantly, but r
 
 In this case, since we are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 
-## We will be going over the case study in below steps
+##We will be going over the case study in below steps
 1. Study Business Problem
 2. Data Operations:<br>
     a. Load<br>
     b. Understanding<br>
     c. Cleaning<br>
 3. Exploratory Data Analysis
+    a. Univariate<br>
+    b. Bivariate or Multivariate<br>
 4. Data Preparation & Preprocessing<br>
     a. Train Test data split<br>
-    b. Handle missing data<br>
-    c. Scalability<br>
-    d. Derived and Dummy Variable preparation<br>
+    b. Scalability<br>
+    c. Derived and Dummy Variable preparation<br>
 5. Feature Engineering using PCA
 6. Model Building:<br>
-    a. SVM<br>
-    b. Logistic Regression<br>
-    c. Random Forest or Decision Tree<br>
-    d. XGBoost<br>
-7. Model Evaluation using following metrics:<br>
+    a. Logistic Regression<br>
+    b. SVM<br>
+    c. XGBoost<br>
+    d. Random Forest or Decision Tree<br>
+7. Model Evaluation & Selection<br>
     a. Accuracy<br>
-    b. Confusion Metrics<br>
+    b. Confusion Matrix<br>
     c. Precision<br>
     d. Recall<br>
     e. F1 Score<br>
-8. Model Selection based on accuracy metric
+8. Conclusion
 9. Predictions for test dataset
-## Data Preparation
 
